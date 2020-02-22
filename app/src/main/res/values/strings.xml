@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Keyboard</string>
+    <string name="service_label">Keyboard by Yash</string>
+    <string name="label_subtype_generic">%s</string>
+</resources>
